@@ -1,0 +1,4 @@
+.venv/
+entrada/*.pdf
+saida/
+__pycache__/
